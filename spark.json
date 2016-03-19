@@ -1,1 +1,7 @@
-
+{
+  "name": "ReadingSync",
+  "author": "CCH <cch@e-psn.gr>",
+  "license": "GPL",
+  "version": "0.0.1",
+  "description": "A library that manages syncing"
+}
