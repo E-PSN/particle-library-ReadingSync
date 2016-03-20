@@ -1,4 +1,4 @@
-#include "ReadingSync.h"
+#include "ReadingSync/ReadingSync.h"
 
 #include <ctime>
 #include <iostream>
